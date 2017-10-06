@@ -80,7 +80,7 @@ Colors
 bgcolor="white" renders a white background
 it works for a lot of colors (red, green, white, black, blue)
 For more choice, RVB color codes should be used:
-RGB (red, green, blue) in hexa notation
+RGB (red, green, blue) in hex notation
 bgcolor="#ffffff" renders a white background
 bgcolor="#000000" renders a black background
 See this website:
